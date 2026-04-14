@@ -263,9 +263,15 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## About Petronella Technology Group
 
-This list is maintained by [Petronella Technology Group, Inc.](https://www.petronellatech.com/) -- a managed service provider and cybersecurity firm that has been serving businesses since 2002. We use many of these tools daily and provide unbiased recommendations based on real-world experience.
+This list is maintained by **Petronella Technology Group**, a managed IT and cybersecurity firm in Raleigh, NC. We use many of these tools daily to protect our clients.
+
+- [Managed IT Services](https://petronellatech.com/managed-it-services/)
+- [Cybersecurity Services](https://petronellatech.com/cybersecurity/)
+- [AI Infrastructure](https://petronellatech.com/ai/ai-services/)
+- [CMMC Compliance](https://petronellatech.com/compliance/cmmc-compliance-guide/)
+
+[Contact us](https://petronellatech.com/contact-us/) or call (919) 348-4912.
 
 - Website: [https://www.petronellatech.com](https://www.petronellatech.com/)
 - Book a consultation: [https://book.petronella.ai](https://book.petronella.ai/)
-- Phone: [(919) 830-9435](tel:9198309435)
 - LinkedIn: [Petronella Technology Group](https://www.linkedin.com/company/petronella-computer-consultants-inc-)
