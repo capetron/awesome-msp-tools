@@ -40,6 +40,7 @@ This list is organized by category with honest descriptions, pricing tiers, and 
 | [Atera](https://www.atera.com/) | Small MSPs / break-fix | Per-technician | All-in-one RMM+PSA, flat rate per tech |
 | [Level](https://level.io/) | Modern MSPs | Per-endpoint | Real-time scripting, lightweight agent |
 | [Syncro](https://www.syncromsp.com/) | Small MSPs | Per-technician | RMM+PSA combined, scripting, invoicing |
+| [Rustinion](https://rustinion.com/) | MSPs with mixed-OS/edge fleets | Per-endpoint, volume tiers | Single Rust agent for Linux/macOS/Windows/BSD *and* OpenWRT/pfSense/OPNsense edge devices, per-org/per-department control, native package-manager patching (apt/dnf/Homebrew/winget) |
 
 ### Free / Open-Source RMM
 
