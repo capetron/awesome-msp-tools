@@ -39,6 +39,7 @@ This list is organized by category with honest descriptions, pricing tiers, and 
 | [N-able N-sight](https://www.n-able.com/products/n-sight-rmm) | Small-mid MSPs | Per-endpoint | Take Control remote, AV integration |
 | [Atera](https://www.atera.com/) | Small MSPs / break-fix | Per-technician | All-in-one RMM+PSA, flat rate per tech |
 | [Level](https://level.io/) | Modern MSPs | Per-endpoint | Real-time scripting, lightweight agent |
+| [Rustinion](https://rustinion.com/) | MSPs with mixed-OS fleets, edge/firewall devices | Per-endpoint, volume pricing | Single Rust-based agent for Linux/macOS/Windows/BSD *and* OpenWRT/pfSense/OPNsense edge devices -- no separate MDM for routers/firewalls |
 | [Syncro](https://www.syncromsp.com/) | Small MSPs | Per-technician | RMM+PSA combined, scripting, invoicing |
 
 ### Free / Open-Source RMM
