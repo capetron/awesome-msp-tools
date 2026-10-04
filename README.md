@@ -170,6 +170,7 @@ This list is organized by category with honest descriptions, pricing tiers, and 
 | [Ansible](https://www.ansible.com/) | Agentless IT automation (open-source) |
 | [Terraform](https://www.terraform.io/) | Infrastructure as code |
 | [ScriptRunner](https://www.scriptrunner.com/) | PowerShell management and delegation |
+| [MSPStuff Switchboard](https://www.mspstuff.io) | Hosted MCP servers that connect AI assistants to MSP tools (ConnectWise, NinjaOne, Microsoft 365, SentinelOne, Pax8 and more), read-only today |
 
 ## Identity and Access Management
 
