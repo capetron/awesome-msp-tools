@@ -37,7 +37,7 @@ This list is organized by category with honest descriptions, pricing tiers, and 
 | [Datto RMM](https://www.datto.com/products/rmm) | Mid-size MSPs | Per-endpoint | Web-based, strong monitoring, Autotask integration |
 | [NinjaOne](https://www.ninjaone.com/) | Growing MSPs | Per-endpoint | Modern UI, fast deployment, built-in remote access |
 | [N-able N-sight](https://www.n-able.com/products/n-sight-rmm) | Small-mid MSPs | Per-endpoint | Take Control remote, AV integration |
-| [Nizlo](https://nizlo.com/) | Small MSPs / Windows IT teams | Per-technician, unlimited endpoints | Windows-first RMM, patching, scripting, remote support, ticketing |
+| [Nizlo](https://nizlo.com/) | MSPs and lean IT teams | Flat monthly; unlimited RMM endpoints | Monitoring, Windows patching, automation, and remote support |
 | [Atera](https://www.atera.com/) | Small MSPs / break-fix | Per-technician | All-in-one RMM+PSA, flat rate per tech |
 | [Level](https://level.io/) | Modern MSPs | Per-endpoint | Real-time scripting, lightweight agent |
 | [Syncro](https://www.syncromsp.com/) | Small MSPs | Per-technician | RMM+PSA combined, scripting, invoicing |
