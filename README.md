@@ -158,6 +158,7 @@ This list is organized by category with honest descriptions, pricing tiers, and 
 | [Zabbix](https://www.zabbix.com/) | Open-Source | Enterprise monitoring, templates, alerting |
 | [Nagios](https://www.nagios.org/) | Open-Source | Veteran monitoring platform, extensive plugins |
 | [Uptime Kuma](https://github.com/louislam/uptime-kuma) | Open-Source | Modern uptime monitoring with notifications |
+| [SiteWatcher](https://github.com/NikKurkov/sitewatcher) | Open-Source | Website availability, response times, TLS and domain expiry checks, and public status pages |
 | [Grafana + Prometheus](https://grafana.com/) | Open-Source | Metrics visualization and alerting |
 
 ## Automation and Scripting
